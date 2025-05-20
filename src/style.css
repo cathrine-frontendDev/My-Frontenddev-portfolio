@@ -1,4 +1,11 @@
 body {
     background-color: ;
-    
+}
+
+section.intro h1 {
+    font-size: 20px;
+}
+
+section.intro h2 {
+    font-size: 46px;
 }
