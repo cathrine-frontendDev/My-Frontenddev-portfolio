@@ -1,11 +1,17 @@
 body {
-    background-color: ;
+    background-color: rgb(3, 3, 15);
+    color: white;
+    padding: 100px;
+    margin: 100px;
 }
+ .hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ }
+  .hero img {
+    border-radius: 150px;
+ }
 
-section.intro h1 {
-    font-size: 20px;
-}
-
-section.intro h2 {
-    font-size: 46px;
-}
+ a link{
+margin-top: 50px;
+ }
